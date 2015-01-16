@@ -1,2 +1,2 @@
-# TwitterRadioRequest
-Request singles worldwide through Twitter.
+# Twitter Radio Request
+Request Paramore singles worldwide through Twitter.
