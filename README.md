@@ -1,2 +1,6 @@
 # Twitter Radio Request
-Request Paramore singles worldwide through Twitter.
+
+This script will let you request Paramore Singles worldwide through your Twitter account.
+
+PS: I didn't create the OAuth library.
+Also special thanks to @TheParamoreBand for the radio stations.
